@@ -25,7 +25,7 @@
 		"oA": 1,
 		"oAP": "/www/dist/gugus-media-queries.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/package-lock.json": {
@@ -73,7 +73,7 @@
 		"oA": 1,
 		"oAP": "/www/dist/_gugusFontomator.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/src/_gugusFontomatorVars.scss": {
@@ -86,7 +86,7 @@
 		"oA": 1,
 		"oAP": "/www/dist/_gugusFontomatorVars.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/src/demoStyles.scss": {
@@ -99,7 +99,7 @@
 		"oA": 0,
 		"oAP": "/www/dist/demoStyles.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/src/gugusFontomator.scss": {
@@ -112,7 +112,7 @@
 		"oA": 0,
 		"oAP": "/www/dist/gugusFontomator.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/www/dist/demoStyles.css": {
@@ -2172,7 +2172,7 @@
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 3,
+		"outputStyle": 1,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
